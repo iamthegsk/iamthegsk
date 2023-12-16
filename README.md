@@ -1,5 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @iamthegsk<br>- 👀 I’m interested in UI/UX and Unique Projects<br>- 🌱 I’m currently learning Everything <br>- 💞️ I’m looking to collaborate with creative people <br>- 📫 How to reach me - type 'iamthegsk' on Google 😉
+  <p align="start">
+  <img src="https://profile-counter.glitch.me/{iamthegsk}/count.svg" alt="Visitor Count" width="180" height="24" />
+</p>
 
 
 ## 🌐 Socials:
